@@ -31,6 +31,7 @@ public class HomeFragment extends Fragment {
     private RecyclerView recyclerView;
     private PostAdapter postAdapter;
     private List<Post> postList;
+    private Integer test;
 
     private List<String> followingList;
 
