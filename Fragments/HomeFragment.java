@@ -34,7 +34,7 @@ public class HomeFragment extends Fragment {
     private Integer test;
 
     private List<String> followingList;
-
+//
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
